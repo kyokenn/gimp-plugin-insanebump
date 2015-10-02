@@ -3,18 +3,18 @@ GIMP Plug-In InsaneBump
 
 Gimp plug-in for normal map generation.
 
-*Copyright (C) 2013 Omar Emad
-*Copyright (C) 2013 Derby Russell <jdrussell51@gmail.com>
+* Copyright (C) 2013 Omar Emad
+* Copyright (C) 2013 Derby Russell <jdrussell51@gmail.com>
 
 Features
 ========
 
-*Automake/Autoconf was replaced with CMake.
+* Automake/Autoconf was replaced with CMake.
 
 Requirements
 ============
 
-*libgimp2.0-dev
+* libgimp2.0-dev
 
 Installation
 ============
