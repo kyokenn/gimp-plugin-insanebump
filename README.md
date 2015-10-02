@@ -4,7 +4,7 @@ GIMP Plug-In InsaneBump
 Gimp plug-in for normal map generation.
 
 * Copyright (C) 2013 Omar Emad
-* Copyright (C) 2013 Derby Russell <jdrussell51@gmail.com>
+* Copyright (C) 2013 Derby Russell
 
 Features
 ========
